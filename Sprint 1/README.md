@@ -1,16 +1,11 @@
 
-# Instruções
+## Aprendizados
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+Na Sprint 1, desenvolvemos o conhecimento dos principais conceitos e comandos do sistema operacional Linux. Aprendemos de forma prática como executar diversos comandos, desde o gerenciamento, edição, atualização e permissão de diretórios e arquivos via linha de comando.
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
+Além disso, aprendemos também sobre a ferramenta Git, muito utilizada no dia a dia dos desenvolvedores. Essa ferramenta, atua como um versionador de controle de códigos e arquivos. Nela podemos trabalhar em equipe, registrando, modificando e enviando todas as atualizações e mensagens necessárias, direto para um repositório de armazenamento remoto.
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
-
-# Exercícios
+<!--# Exercícios
 
 
 1. ...
@@ -22,7 +17,6 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 
 
-
 # Evidências
 
 
@@ -31,12 +25,15 @@ Ao executar o código do exercício ... observei que ... conforme podemos ver na
 
 ![Evidencia 1](evidencias/sample.webp)
 
+-->
+
+## Certificados
 
 
-# Certificados
+_Certificado Linux para Desenvolvedores_
 
+![Curso Linux](certificados/linux.jpg)
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+_Certificado Git e Github do básico ao avançado_
 
-
+![Curso Linux](certificados/git.jpg)
