@@ -2,6 +2,8 @@
 
 Olá, sou Lucas, moro na cidade de Leme/SP, estou cursando o 4° semestre do curso Sistemas para Internet no Centro Universitário Senac. Esta é a minha primeira experiência na área de tecnologia.
 
+Meu objetivo é atuar como Engenheiro/Cientista de Dados, utilizando análises e técnicas de Machine Learning, para obter melhores soluções de negócio às empresas, através do desenvolvimento de aplicações que gerem valor.
+
 Meus hobbies favoritos são a gastronomia e o jiu-jitsu.
 
 Logo que finalizei o ensino médio, fui trabalhar na área gastronômica. As principais lições tirei desse ambiente de trabalho foram que não tem como prorrogar prazos de entrega. É necessário planejamento diário do que será feito no dia. É preciso ter honestidade com o tempo e não ignorar todos os requerimentos que a tarefa exige. A organização do ambiente é primordial para que possamos desempenhar todas as tarefas. Obedecer os padrões de qualidade e efetuar tarefas com um padrão de resultado é essencial. Por fim, um elemento chave que mantém todos os processos alinhados é a COMUNICAÇÃO.
