@@ -2,7 +2,7 @@
 
 Olá, sou Lucas, moro na cidade de Leme/SP, estou cursando o 4° semestre do curso Sistemas para Internet no Centro Universitário Senac. Esta é a minha primeira experiência na área de tecnologia.
 
-Meu objetivo é atuar como Engenheiro/Cientista de Dados, utilizando análises e técnicas de Machine Learning, para obter melhores soluções de negócio às empresas, através do desenvolvimento de aplicações que gerem valor.
+Meu principal objetivo é trazer soluções eficazes e de valor para os problemas de negócio através da Análise de Dados e Ciência de Dados.
 
 Meus hobbies favoritos são a gastronomia e o jiu-jitsu.
 
