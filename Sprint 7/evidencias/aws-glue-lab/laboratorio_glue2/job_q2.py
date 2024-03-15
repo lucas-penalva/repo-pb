@@ -26,7 +26,7 @@ dynamic_frame = glueContext.create_dynamic_frame.from_options(
     format_options={"withHeader": True, "separator": ","}
 )
 
-# Converta DynamicFrame para DataFrame
+# Converte DynamicFrame para DataFrame
 df = dynamic_frame.toDF()
 
 df_upper = df.withColumn("nome", upper("nome"))
@@ -36,7 +36,7 @@ df_upper.show()
 # Converte o DataFrame de volta para DynamicFrame
 dynamic_frame_upper = DynamicFrame.fromDF(df_upper, glueContext, "dynamic_frame_upper")
 
-# Escreva o DataFrame para o S3
+# Escreve o DataFrame para o S3
 glueContext.write_dynamic_frame.from_options(
     frame=dynamic_frame_upper,
     connection_type="s3",

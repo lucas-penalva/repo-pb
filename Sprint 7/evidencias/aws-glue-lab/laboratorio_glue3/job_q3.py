@@ -16,7 +16,7 @@ job.init(args['JOB_NAME'], args)
 source_file = args['S3_INPUT_PATH']
 target_path = args['S3_TARGET_PATH']
 
-# Crie o DataFrame a partir dos dados de entrada
+# Cria o DataFrame a partir dos dados de entrada
 df = glueContext.create_dynamic_frame.from_options(
     "s3",
     {"paths": [source_file]},
@@ -24,10 +24,10 @@ df = glueContext.create_dynamic_frame.from_options(
     {"withHeader": True, "separator": ","}
 )
 
-# Imprima a contagem de linhas
+# Imprime a contagem de linhas
 print("Number of rows:", df.count())
 
-# Escreva o DataFrame para o S3
+# Escreve o DataFrame para o S3
 glueContext.write_dynamic_frame.from_options(
     frame = df,
     connection_type = "s3",
