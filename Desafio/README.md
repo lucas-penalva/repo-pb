@@ -14,7 +14,7 @@ Nesta primeira parte do desafio, criamos um container docker com um volume para 
 
 ## Desafio - Parte II
 
-![tmdb](etapa-2/tmdb.jpg)
+![tmdb](/Desafio/etapa-2/tmdb.jpg)
 
 ## Contexto do projeto:
 
