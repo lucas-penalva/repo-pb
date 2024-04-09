@@ -59,3 +59,23 @@ Adotar a métrica de _popularidade_ para extrair diversas informações.
 ## Resultados:
 
 [Clique aqui](<./etapa-2/lambda_movies.py>) para visualizar o código lambda desenvolvido na etapa IV, e o resultado final do [arquivo](<./etapa-2/output_batch.jpg>) gerado e carregado para o bucket.
+
+## Desafio - Parte III
+
+***_I. Tarefa 03_***
+
+Nesta fase, iniciamos realizando a integração das diversas fontes de origem.
+
+Separamos o processamento em dois jobs: o [primeiro](<./etapa-3/tarefa_03/trusted_job_csv.py>), para carga histórica, responsável pelo processamento dos arquivos CSV  e o [segundo](<./etapa-3/tarefa_03/trusted_job_api.py>), para carga de dados do TMDB.
+
+***_II. Tarefa 04_***
+
+Desenvolvemos a modelagem de dados da Refined.
+
+ [Visualizar modelagem](<./etapa-3/tarefa_04/modelo_multidim.png>)
+
+***_III. Tarefa 05_***
+
+Criamos o processamento que lê os dados existentes na Trusted, processamos e inserimos na [Refined](<./etapa-3/tarefa_05/refined_job.py>).
+
+Por fim, foram registradas as [tabelas](<./etapa-3/tarefa_05/aws_glue_data_catalog.png>) geradas no AWS Glue Data Catalog para poder fazer consultas.
