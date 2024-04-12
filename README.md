@@ -2,7 +2,7 @@
 
 Olá, sou Lucas, moro na cidade de Leme/SP, estou cursando o 4° semestre do curso Sistemas para Internet no Centro Universitário Senac. Esta é a minha primeira experiência na área de tecnologia.
 
-Meu principal objetivo é trazer soluções eficazes e de valor para os problemas de negócio através da Análise de Dados e Ciência de Dados.
+Meu principal objetivo é trazer soluções eficazes e de valor para os problemas de negócio através da análise, ciência e engenharia de dados.
 
 Meus hobbies favoritos são a gastronomia e o jiu-jitsu.
 

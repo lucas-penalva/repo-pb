@@ -72,10 +72,10 @@ Separamos o processamento em dois jobs: o [primeiro](<./etapa-3/tarefa_03/truste
 
 Desenvolvemos a modelagem de dados da Refined.
 
- [Visualizar modelagem](<./etapa-3/tarefa_04/modelo_multidim.png>)
+ [Visualizar modelagem](<./etapa-3/tarefa_04/modelagem_multidim.png>)
 
 ***_III. Tarefa 05_***
 
 Criamos o processamento que lê os dados existentes na Trusted, processamos e inserimos na [Refined](<./etapa-3/tarefa_05/refined_job.py>).
 
-Por fim, foram registradas as [tabelas](<./etapa-3/tarefa_05/aws_glue_data_catalog.png>) geradas no AWS Glue Data Catalog para poder fazer consultas.
+Por fim, foram registradas as [tabelas](<./etapa-3/tarefa_05/tables_athena.jpg>) geradas no AWS Glue Data Catalog para poder fazer consultas.
