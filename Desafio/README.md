@@ -79,3 +79,42 @@ Desenvolvemos a modelagem de dados da Refined.
 Criamos o processamento que lê os dados existentes na Trusted, processamos e inserimos na [Refined](<./etapa-3/tarefa_05/refined_job.py>).
 
 Por fim, foram registradas as [tabelas](<./etapa-3/tarefa_05/tables_athena.jpg>) geradas no AWS Glue Data Catalog para poder fazer consultas.
+
+## Desafio - Parte IV
+
+**H1. A variação na média de orçamento em um período de três décadas aumentou ou diminuiu e por quê? Quais fatores influenciam?**
+
+![H1](../Sprint%2010/images/h1.jpg)
+
+**H2. A variação na média de receita em um período de três décadas aumentou ou diminuiu e por quê?**
+
+![H2](../Sprint%2010/images/h2.jpg)
+
+**H3. Demonstrar o comportamento da média de lucro por gênero**
+
+![H3](../Sprint%2010/images/h3.jpg)
+
+## Conclusões:
+
+**H1.** Nota-se uma variação na média de orçamento num período de 30 anos.
+
+Isso explica o fato de que houve avanços tecnológicos, cinematográficos, equipamentos, que exigem investimentos mais altos para alcançar um nível de qualidade e isso reflete em um filme competitivo no mercado.
+
+**H2.**
+
+Nota-se uma tendência na variação média de receita num período de 30 anos, com quedas acentuadas e logo em seguida uma recuperação.
+
+Esse gráfico demonstra 2 pontos importantes:
+
+1. No ano de 2008, com a crise do Subprime, houve redução de orçamentos para a produção de filmes e isso fez com que investidores ficassem mais cautelosos. Não somente, o consumidor mudou seus hábitos de entretenimento, ou seja, menos gasto com cinema e produtos relacionados.
+
+2. No ano de 2020, nota-se pelo gráfico uma queda forte devido ao fechamento de cinemas a nível mundial pois, as restrições de saúde recomendadas impactaram diretamente na receita de bilheteria, fazendo com que resultasse em atrasos de lançamentos, cancelamentos e redução na produção de novos filmes.
+
+Além disso, houve uma forte mudança para o serviço de Streaming, e isso fez com que os estúdios avaliassem suas estratégias para descobrir novas formas de distribuir suas produções. 
+
+Por fim, o aumento de custos durante a produção, aconteceu devido a medidas de segurança e protocolos de saúde, resultando em custos adicionais.
+
+**H3.**
+
+Nesse gráfico eu quis apresentar a média de lucro por gênero pra que o investidor possa tomar uma decisão ou não se vale a pena investir em filmes de determinado gênero. Com isso, por meio dessa visualização ele consegue obter uma visão de um possível retorno de lucro e tomar decisões mais assertivas.
+
