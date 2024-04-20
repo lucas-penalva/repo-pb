@@ -102,7 +102,7 @@ Isso explica o fato de que houve avanços tecnológicos, cinematográficos, equi
 
 **H2.**
 
-Nota-se uma tendência na variação média de receita num período de 30 anos, com quedas acentuadas e logo em seguida uma recuperação.
+Nota-se uma tendência na variação média de receita num período de 30 anos, com algumas quedas e logo em seguida uma recuperação.
 
 Esse gráfico demonstra 2 pontos importantes:
 

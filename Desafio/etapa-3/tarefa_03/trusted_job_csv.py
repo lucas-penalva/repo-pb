@@ -4,8 +4,7 @@ from awsglue.utils import getResolvedOptions
 from pyspark.context import SparkContext
 from awsglue.context import GlueContext
 from awsglue.job import Job
-from pyspark.sql.functions import *
-from pyspark.sql.types import *
+from pyspark.sql.functions import col
 
 ## @params: [JOB_NAME]
 args = getResolvedOptions(sys.argv, ['JOB_NAME'])
@@ -21,12 +20,12 @@ df = spark.read\
     .option("header", "true")\
     .option("delimiter", "|")\
     .load("s3://bucketchallenge7/bucketchallenge7/Raw/Local/CSV/Movies/2024/03/11/")
-    
+
 df_filtered = df.filter(
-    (col("genero").isin(['Action,Adventure,Thriller', 'Action,Mystery,Thriller', 'Action', 'Adventure'])) &
+    (col("genero").contains('Action') | col("genero").contains('Adventure')) &
     (col("notaMedia") >= 6.5) &
     (col("anoLancamento").between(1990, 2020))
-    ).select('id', 'tituloOriginal', 'anoLancamento', 'genero', 'notaMedia', 'numeroVotos', 'nomeArtista')
+    ).select('id', 'tituloOriginal', 'anoLancamento', 'genero', 'notaMedia', 'numeroVotos', 'nomeArtista')    
     
 # df_filtered.show(5)
 
