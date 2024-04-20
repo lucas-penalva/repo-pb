@@ -27,7 +27,7 @@ Dito isso, acredito que muitos desses processos e pilares vivenciados na cozinha
 7. [Sprint 7](Sprint%207/README.md)
 8. [Sprint 8](Sprint%208/README.md)
 9. [Sprint 9](Sprint%209/README.md)
-10. [Sprint 10](Sprint%210/README.md)
+10. [Sprint 10](Sprint%2010/README.md)
 
 ## Desafio
 
