@@ -86,7 +86,6 @@ Por fim, o aumento de custos durante a produção, aconteceu devido à medidas d
 
 Nesse gráfico eu quero apresentar a média de lucro por gênero pra que o investidor possa tomar uma decisão ou não se vale a pena investir em filmes de determinado gênero. Com isso, por meio dessa visualização ele consegue obter uma visão de um possível retorno de lucro e tomar decisões mais assertivas.
 
-
 ## _Feedback - Pessoal/Dificuldades:_
 
 Encontrei diversas dificuldades, desde o desenvolvimento de código, bem como os exercícios de ETL dentro do contexto Glue e API. Não somente, tive voltar atrás algumas vezes para buscar mais dados, executando a lambda novamente.
@@ -99,13 +98,26 @@ Preciso otimizar a gestão do tempo, dividindo melhor as tarefas, e também semp
 
 4. Como você imagina que os conhecimentos obtidos no decorrer do Programa de Bolsas podem gerar valor para os clientes da Compass? 
 
-Posso concluir que com os conhecimentos técnicos e práticos obtidos no PB - Compass, descobri como gerar valor com dados.
+Imaginei como gerar valor com dados aos clientes desde a compreensão de cada um dos pilares da empresa, bem como o desenvolvimento de conhecimentos técnicos e práticos ao longo do programa.
 
-Mas como posso gerar valor com dados aos clientes Compass?
+Assim sendo, posso gerar valor para os clientes da Compass de várias maneiras:
 
-- Aumento de faturamento.
-- Ampliar vendas.
-- Descobrir onde está entrando mais dinheiro.
-- Redução de custos.
-- Tomar decisões onde a empresa pode gastar menos dinheiro.
-- Sendo relevante e tendo estratégias na resolução de problemas.
+Autonomia e responsabilidade: aprendi a ter capacidade de tomar iniciativa de forma autônoma, garantindo responsabilidade pelos resultados entregues aos clientes.
+
+Colaboração e liderança: trabalhar em equipe, para desenvolver soluções, promovendo um ambiente de cooperação e crescimento mútuo.
+
+Empatia: compreender as necessidades e desafios dos clientes, buscando sempre oferecer soluções adequadas e também um atendimento de alta qualidade.
+
+Proatividade: antecipar às demandas dos clientes, identificar oportunidades de melhoria e implementar ações para otimizar processos e resultados.
+
+Ética e postura profissional: trabalhar com integridade, transparência e ética em todas as conversas com os clientes, garantindo confiança e credibilidade.
+
+**E como todos esses conhecimentos técnicos, práticos e pilares da empresa, reflete na geração de valor com dados para os clientes Compass?**
+
+- Análise de dados: utilizando de análise de dados para identificar padrões, tendências e insights relevantes que possam impulsionar o crescimento do negócio dos clientes.
+
+- Otimização de processos: identificando áreas de oportunidade para reduzir custos, aumentar a eficiência operacional e melhorar a qualidade dos produtos ou serviços oferecidos.
+
+- Tomada de decisão: fornecendo informações estratégicas e análises precisas que auxiliem os clientes na tomada de decisões fundamentadas, contribuindo para o aumento do faturamento, ampliação das vendas e maximização do retorno sobre o investimento.
+
+- Desenvolvimento de soluções personalizadas: criando soluções para as necessidades específicas de cada cliente, garantindo que as estratégias adotadas estejam alinhadas com seus objetivos e metas.
